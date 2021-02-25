@@ -1,4 +1,4 @@
-name: CI
+name: KhangGamer
 
 on: workflow_dispatch
 
